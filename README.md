@@ -6,20 +6,15 @@
   - At the same time I'm finishing [ModelApp](https://github.com/eolybq/ModelApp), which is website for fetching live stock financial data and then using the data to explore different models with different settings performance.
 - 📫 How to reach me: jez.vasek@gmail.com
 
+
 ### Tech stack🛠️
-<b style="background-color:#f0db4f; color:#000; padding:3px 6px; border-radius:3px;">JavaScript</b>
-<b style="background-color:#306998; color:#fff; padding:3px 6px; border-radius:3px;">Python</b>
-<b style="background-color:#3776AB; color:#fff; padding:3px 6px; border-radius:3px;">Django</b>
-
-<span style="background-color:#306998; color:white; padding:3px 8px; border-radius:4px;">Python</span> 
-<span style="background-color:#f0db4f; color:black; padding:3px 8px; border-radius:4px;">JavaScript</span>
-
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-
-`Python` `Flask` `ARIMA`  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 ### About me🧑‍💻 
