@@ -4,7 +4,9 @@
 - 🔭 Now working on these personal projects:
   - [Project TSLA price prediction](https://github.com/eolybq/tsla_sentiment_prediction), where I use traditional time series models and not so traditional machine learning models combined with unusual sentiment data to predict TSLA price.
   - At the same time I'm finishing [ModelApp](https://github.com/eolybq/ModelApp), which is website for fetching live stock financial data and then using the data to explore different models with different settings performance.
-- 📫 How to reach me:
+
+
+### How to reach me 📫
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#) https://www.linkedin.com/in/vaclavjez
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#) jez.vasek@gmail.com
 
