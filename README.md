@@ -1,4 +1,4 @@
-## Welcome to my GitHub!
+## Welcome to my GitHub!⚡
 
 - 🌱 I’m currently studying Mathematical and Statistical Methods in Economics at Masaryk University.
 - 🔭 Currently working on
