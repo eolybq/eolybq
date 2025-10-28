@@ -6,5 +6,5 @@
   - At the same time I'm finishing [ModelApp](https://github.com/eolybq/ModelApp), which is website for fetching live stock financial data and then using the data to explore different models with different settings performance.
 - 📫 How to reach me: jez.vasek@gmail.com
 
-###🧑‍💻 About me
+### About me🧑‍💻 
 ě
