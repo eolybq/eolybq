@@ -14,6 +14,10 @@
 <span style="background-color:#306998; color:white; padding:3px 8px; border-radius:4px;">Python</span> 
 <span style="background-color:#f0db4f; color:black; padding:3px 8px; border-radius:4px;">JavaScript</span>
 
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
 
 `Python` `Flask` `ARIMA`  
 
