@@ -4,7 +4,7 @@
 - 🔭 Now working on these personal projects:
   - [Financial Volatility Forecaster](https://github.com/eolybq/financial_volatility_forecaster) is an End-to-End ML FastAPI project, which creates endpoint for real-time volatility predictions for any ticker available in Yahoo Finance. Endpoint /predict/{ticker} trains simple but reliable GARCH model on last 4 year data for chosen ticker, returns prediction for tommorow and store the prediciton in Neon.tech PostgreSQL database. Stored predicitons are then used to backwards manual test predictions in order to find any model drift in time. The project uses Docker to containerize application to be live deployed on HuggingFace Spaces.
   - [Documentation RAG LLM ChatBOT](https://github.com/eolybq/docs_rag_chat_bot) is a ChatBOT which answers with relevant and correct information from python libraries documentations. Project creates API endpoint for RAG retrieval from pgvector database containing embedded data. RAG pipeline for creating such database and to retrieve from it is created from scratch with python (from preprocessing documents, chunk splitting, embedding using OpenAI's models, to searching and prompting relevant information from database to LLM).
-  - At the same time I'm finishing [ModelApp](https://github.com/eolybq/ModelApp), which is website for fetching live stock financial data and then using the data to explore performance of different models with different settings.
+  - At the same time I'm finishing [ModelApp](https://github.com/eolybq/ModelApp), which is website for fetching live stock financial data and then using the data to explore performance of different Machine Learning / Statistics models with different settings.
 
 
 
